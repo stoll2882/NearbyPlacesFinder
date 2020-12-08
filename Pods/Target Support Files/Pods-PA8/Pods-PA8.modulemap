@@ -1,0 +1,6 @@
+framework module Pods_PA8 {
+  umbrella header "Pods-PA8-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,6 +1,9 @@
 //
 //  AppDelegate.swift
 //  PA8
+//  Sam Toll
+//  CPSC 315
+//  December 10th, 2020
 //
 //  Created by Sam Toll on 12/6/20.
 //
