@@ -17,7 +17,7 @@ import GooglePlaces
 struct PlacesAPI {
     
     // projectAPIKey and baseURL for detail requests
-    static let apiKey = "AIzaSyClQ91OBdDElC-ko7iVkDbvK5-raki1sGg"
+    static let apiKey = APIKey.APIKey;
     static let baseURL = "https://maps.googleapis.com/maps/api/place/details/json?"
     
     // function to get proper details url based on what field was wanted and the id of the place we are getting it from

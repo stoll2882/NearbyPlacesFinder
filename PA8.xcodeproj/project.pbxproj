@@ -14,6 +14,7 @@
 		9F255C26257D7EA900388811 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9F255C24257D7EA900388811 /* Main.storyboard */; };
 		9F255C28257D7EAA00388811 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9F255C27257D7EAA00388811 /* Assets.xcassets */; };
 		9F255C2B257D7EAA00388811 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9F255C29257D7EAA00388811 /* LaunchScreen.storyboard */; };
+		9F8E6B83259D2D9900EAFDAC /* APIKey.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F8E6B82259D2D9900EAFDAC /* APIKey.swift */; };
 		9FA238A4257D9B0500B069AA /* PlaceTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FA238A3257D9B0500B069AA /* PlaceTableViewController.swift */; };
 		9FA238A7257D9B1200B069AA /* Place.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FA238A6257D9B1200B069AA /* Place.swift */; };
 		9FA238AA257D9DDD00B069AA /* PlaceCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FA238A9257D9DDD00B069AA /* PlaceCell.swift */; };
@@ -33,6 +34,7 @@
 		9F255C27257D7EAA00388811 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9F255C2A257D7EAA00388811 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9F255C2C257D7EAA00388811 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9F8E6B82259D2D9900EAFDAC /* APIKey.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIKey.swift; sourceTree = "<group>"; };
 		9FA238A3257D9B0500B069AA /* PlaceTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaceTableViewController.swift; sourceTree = "<group>"; };
 		9FA238A6257D9B1200B069AA /* Place.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Place.swift; sourceTree = "<group>"; };
 		9FA238A9257D9DDD00B069AA /* PlaceCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaceCell.swift; sourceTree = "<group>"; };
@@ -89,6 +91,7 @@
 				9F255C20257D7EA900388811 /* SceneDelegate.swift */,
 				9F255C22257D7EA900388811 /* ViewController.swift */,
 				9FA238D1257EDCDE00B069AA /* PlacesAPI.swift */,
+				9F8E6B82259D2D9900EAFDAC /* APIKey.swift */,
 				9F255C24257D7EA900388811 /* Main.storyboard */,
 				9F255C27257D7EAA00388811 /* Assets.xcassets */,
 				9F255C29257D7EAA00388811 /* LaunchScreen.storyboard */,
@@ -245,6 +248,7 @@
 				9F255C21257D7EA900388811 /* SceneDelegate.swift in Sources */,
 				9FA238D2257EDCDE00B069AA /* PlacesAPI.swift in Sources */,
 				9FA238A7257D9B1200B069AA /* Place.swift in Sources */,
+				9F8E6B83259D2D9900EAFDAC /* APIKey.swift in Sources */,
 				9FA238AA257D9DDD00B069AA /* PlaceCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
